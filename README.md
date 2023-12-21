@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaickh
-- 👀 I’m interested in Blockchain and AI
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in all types of tech - current focus: automation and AI
+- 🌱 \/
 - 💞️ I’m looking to collaborate on - im sure something will pop up
 - 📫 How to reach me email: khasukai@gmail.com
 
